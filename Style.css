@@ -83,7 +83,8 @@ th {
 }
 
 .webword {
-  background-color: #fff0e6;
-  color: #cc5200;
+  background-color: #ffeb99;  /* soft gold/yellow */
+  color: #996600;             /* rich golden brown for contrast */
   font-weight: bold;
 }
+
