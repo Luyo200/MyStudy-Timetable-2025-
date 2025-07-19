@@ -36,16 +36,18 @@ th {
 
 /* Subject Styles */
 .maths {
-  background-color: #e6f7ff;
-  color: #004466;
+  background-color: #00ffff;  /* bright cyan */
+  color: #004d4d;             /* deep teal for good contrast */
   font-weight: bold;
 }
 
+
 .chemistry {
-  background-color: #ffe6f0;
-  color: #660033;
+  background-color: #ffcccb;  /* soft yet vibrant coral-pink */
+  color: #800000;             /* deep maroon for contrast */
   font-weight: bold;
 }
+
 
 .computer {
   background-color: #e6ffe6;
@@ -58,12 +60,21 @@ th {
   color: #997a00;
   font-weight: bold;
 }
-
-.Research {
-  background-color: #f0e6ff;
-  color: #4b0082;
+.my-project {
+  background-color: #4CAF50;  /* medium green */
+  color: #ffffff;             /* white text for contrast */
   font-weight: bold;
 }
+
+
+
+
+.Research {
+  background-color: #fff3e6;  /* soft peach */
+  color: #cc5200;             /* warm burnt orange for contrast */
+  font-weight: bold;
+}
+
 
 .Preparations {
   background-color: #e6f9ff;
