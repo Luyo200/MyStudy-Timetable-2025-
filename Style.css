@@ -1,0 +1,78 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f5f7fa;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
+  background: white;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #34495e;
+  color: white;
+}
+
+.break td {
+  background-color: #ecf0f1;
+  font-weight: bold;
+  color: #7f8c8d;
+}
+
+/* Subject Styles */
+.maths {
+  background-color: #e6f7ff;
+  color: #004466;
+  font-weight: bold;
+}
+
+.chemistry {
+  background-color: #ffe6f0;
+  color: #660033;
+  font-weight: bold;
+}
+
+.computer {
+  background-color: #e6ffe6;
+  color: #006600;
+  font-weight: bold;
+}
+
+.project {
+  background-color: #fffbe6;
+  color: #997a00;
+  font-weight: bold;
+}
+
+.Research {
+  background-color: #f0e6ff;
+  color: #4b0082;
+  font-weight: bold;
+}
+
+.Preparations {
+  background-color: #e6f9ff;
+  color: #006680;
+  font-weight: bold;
+}
+
+.webword {
+  background-color: #fff0e6;
+  color: #cc5200;
+  font-weight: bold;
+}
